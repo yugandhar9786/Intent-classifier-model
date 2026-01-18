@@ -27,3 +27,4 @@ This small project demonstrates:
         "intent": "complaint",
         "probabilities": {"complaint": 0.85, "question": 0.05, ...}
     }
+# Intent-classifier-model
